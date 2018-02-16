@@ -12,11 +12,10 @@ No emphasis
 
 ### Code code
 
-`コード`
+`コード Code`
 
 ```
-スクロール付き　
-スクロール付き　スクロール付き　スクロール付き　スクロール付き　
+With scroll With scroll With scroll With scroll
 ```
 
 ### Block quotes
