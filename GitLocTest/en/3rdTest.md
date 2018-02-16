@@ -1,28 +1,28 @@
-# 見出し1
+# Heading 1
 
-## 見出し2
+## Heading 2
 
-### 見出し3
+### Heading 3
 
-#### 見出し4
+#### Heading 4
 
-##### 見出し5
+##### Heading 5
 
-###### 見出し6
+###### Heading 6
 
-- リスト1
-    - ネスト リスト1_1
-        - ネスト リスト1_1_1
-        - ネスト リスト1_1_2
-    - ネスト リスト1_2
-- リスト2
-- リスト3
+- List 1 
+    -  Nest list 1 _ 1 
+        -  Nest list 1 _ 1 _ 1 
+        -  Nest list 1 _ 1 _ 2 
+    -  Nest list 1 _ 2 
+- List 2
+- List 3
 
-1. 番号付きリスト1
-    1. 番号付きリスト1_1
-    2. 番号付きリスト1_2
-2. 番号付きリスト2
-3. 番号付きリスト3
+1. Numbered list 1 
+    1.  Numbered list 1 _ 1 
+    2.  Numbered list 1 _ 2 
+2. Numbered list 2
+3. Numbered list 3
 
 > Thank you for your help. This is xxx.
 > The bug turned out to be specification. Thank you for your help. It is xxx.
@@ -33,43 +33,26 @@
 ---
 
 ```
-# Space
-class Hoge
-  def hoge
-    print 'hoge'
-  end
-end
-インストールコマンドは `gem install hoge` です
-ノーマル *イタリック* ノーマル
+# Space class Hoge def hoge print 'hoge' end end Install command is `gem install hoge`. Normal * italic * Normal
 ```
 
-ノーマル *イタリック* ノーマル
+Normal *italic* normal
 
-ノーマル **太字** ノーマル
-ノーマル **太字** ノーマル
+Normal **bold** Normal Normal **Bold** Normal
 
-通常 ***太字斜体*** 通常
-通常 ***太字斜体*** 通常
+Normal normal ***bold italic*** Normal normal ***bold italic*** Normal
 
 [Google Sensei](https://www.google.co.jp/)
 
-[こっちからgoogle][google]
-その他の文章
-[こっちからもgoogle][google]
+[From here google] [google] Other sentences [from here google] [google]
 
-~~取り消し線~~
+~ ~ Strikethrough ~~
 
-　~~~
-　class Hoge
-　  def hoge
-　    print 'hoge'
-　  end
-　end
-　~~~
+~~~ class Hoge def hoge print 'hoge' end end ~~~
 
-ヘッダー1 | ヘッダー2 | ヘッダー3
+Header 1 | Header 2 | Header 3
 --- | --- | ---
-左寄せ | Right alignment | Center alignment
-あ | い | う
+Left alignment | Right alignment | Center alignment
+Ah | There | Cormorant
 
-吾輩は猫であるぞ…！
+I am a cat!
