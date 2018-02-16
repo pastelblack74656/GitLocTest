@@ -12,7 +12,7 @@ No emphasis
 
 ### Code code
 
-`コード`
+`コード Code`
 
 ```
 With scroll With scroll With scroll With scroll
